@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @VijayarajGC
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Web Development
+- 👋 Hi, I’m @VijayarajGC a passionate Software Developer.
+- 🌱 Full Stack Development, Cloud, Devops, 
 - 📫 How to reach me E-mail - vijayaraj4112001@gmail.com
 - 😄 Pronouns: Developer 
 
